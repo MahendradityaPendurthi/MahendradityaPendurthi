@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MahendradityaPendurthi
-- 👀 I’m interested in Cybersecurity, IOT
+- 👀 I’m interested in IOT
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email: mahendraditya.pen@gmail.com
